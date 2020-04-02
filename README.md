@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/iZettle/Flow) 
+
 <img src="https://github.com/iZettle/Flow/blob/master/flow-logo.png?raw=true" height="140px" />
 
 [![Build Status](https://travis-ci.org/iZettle/Flow.svg?branch=master)](https://travis-ci.org/iZettle/Flow)
